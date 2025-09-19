@@ -1,4 +1,4 @@
-# sellCloths - Full Stack ecommerce App
+# Bookstore - Full Stack ecommerce App
 
 Highlights:
 
